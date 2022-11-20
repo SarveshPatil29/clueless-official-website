@@ -46,7 +46,6 @@ const Home: NextPage = () => {
           <img src="ineuron-logo.png" alt="ineutron Logo" className="p-10" />
         </a>
       </div>
-      {/* Community Partner Section */}
       <div className="mt-32 flex flex-col justify-center items-center xl:space-y-16 space-y-8 w-[10/12] mx-auto">
         <h1 className="xl:text-5xl font-bold md:text-4xl text-2xl">
           Our <span className="text-skin-main">Community Partners</span>
